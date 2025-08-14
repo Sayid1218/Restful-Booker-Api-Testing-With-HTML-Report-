@@ -1,0 +1,1 @@
+newman run Practice_day_1.postman_collection.json -e Practice_Day_1.postman_environment.json --reporters cli,html --reporter-html-export report.html
